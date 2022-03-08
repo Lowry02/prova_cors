@@ -6,4 +6,4 @@
 
 # File dove faccio la richiesta
 
-  - ./src/App.js::handleRequest
+  - `./src/App.js::handleRequest`
