@@ -1,3 +1,5 @@
 # Per runnare
 
-Posizionati nella cartella e lancia `npm start`
+  - Posizionati nella cartella
+  - lancia `npm install`
+  - lancia `npm start`
